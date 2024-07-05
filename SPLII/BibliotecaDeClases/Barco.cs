@@ -36,7 +36,7 @@ namespace BibliotecaDeClases
 
         public abstract void CalcularCosto();
 
-        public bool CompararBarcos(Barco a, Barco b)
+        public static bool CompararBarcos(Barco a, Barco b)
         {
             return a.Nombre == b.Nombre;
         }

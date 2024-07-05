@@ -16,7 +16,7 @@ namespace BibliotecaDeClases
         public Pirata(string nombre, float costo, bool estadoReparado, EOperacion operacion, int tripulacion) 
             : base(nombre, costo, estadoReparado, operacion, tripulacion)
         {
-            CalcularCosto();
+            
         }
 
         protected override int Tripulacion 

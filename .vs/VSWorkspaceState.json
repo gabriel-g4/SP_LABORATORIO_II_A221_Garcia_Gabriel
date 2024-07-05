@@ -1,8 +1,9 @@
 {
   "ExpandedNodes": [
     "",
-    "\\SPLII"
+    "\\SPLII",
+    "\\SPLII\\BibliotecaDeClases"
   ],
-  "SelectedNode": "\\SPLII\\SPLaboratorioII.sln",
+  "SelectedNode": "\\SPLII\\BibliotecaDeClases\\Pirata.cs",
   "PreviewInSolutionExplorer": false
 }
