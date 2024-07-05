@@ -8,15 +8,17 @@ using System.Text;
 using System.Threading;
 using System.Threading.Tasks;
 using System.Windows.Forms;
+using BibliotecaDeClases;
 
 namespace TallerFrankyUi
 {
     public partial class FrmReparacion : Form
     {
-        
-        public FrmReparacion()
+        Taller taller;
+        public FrmReparacion(Taller taller)
         {
             InitializeComponent();
+            this.taller = taller;
         }
 
         private void FrmReparacion_Load(object sender, EventArgs e)
@@ -24,6 +26,22 @@ namespace TallerFrankyUi
             //TODO: Asocio el evento que va a imprimir el ticket
             //TODO: Instanciar y comenzar el hilo que se va a encargar de reparar los barcos del taller
            
+            foreach (Barco barco in this.taller.Barcos)
+            {
+                taller.Reparar(taller);
+                if (barco is Pirata)
+                {
+                    Pirata pirata = (Pirata)barco;
+                    lstTaller.Items.Add(pirata.ToString());
+                }
+                else if (barco is Marina)
+                {
+                    Marina marina = (Marina)barco;
+                    lstTaller.Items.Add(marina.ToString());
+                }
+            }
+
+
            
         }
 

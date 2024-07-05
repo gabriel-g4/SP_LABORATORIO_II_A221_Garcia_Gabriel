@@ -1,4 +1,5 @@
-﻿using System;
+﻿using Google.Protobuf.WellKnownTypes;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
@@ -6,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace BibliotecaDeClases
 {
+    [Serializable]
+
     public class Pirata : Barco
     {
         public Pirata() : base ()
@@ -13,22 +16,24 @@ namespace BibliotecaDeClases
             
         }
 
-        public Pirata(string nombre, float costo, bool estadoReparado, EOperacion operacion, int tripulacion) 
-            : base(nombre, costo, estadoReparado, operacion, tripulacion)
+        public Pirata(string nombre, EOperacion operacion) 
+            : base(nombre,  operacion)
         {
-            
+            this.tripulacion = 0;
         }
 
-        protected override int Tripulacion 
+        public override int Tripulacion 
         { 
             get 
-            { return this.tripulacion; } 
-            set
             {
                 if (this.tripulacion == 0)
                 {
-                    value = GenerarRandom.EnteroAleatorio(10, 30);
+                    this.tripulacion = GenerarRandom.EnteroAleatorio(10, 30);
                 }
+                return this.tripulacion; } 
+            set
+            {
+                this.tripulacion = value;
             }
           }
 
@@ -42,7 +47,7 @@ namespace BibliotecaDeClases
             StringBuilder stringBuilder = new StringBuilder(base.ToString());
             stringBuilder.AppendLine($"Costo: {this.costo}");
             stringBuilder.AppendLine($"Tripulacion: {this.Tripulacion}");
-            return base.ToString();
+            return stringBuilder.ToString();
         }
     }
 }

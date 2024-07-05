@@ -1,4 +1,5 @@
-﻿using System;
+﻿using BibliotecaDeClases;
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -12,10 +13,18 @@ namespace TallerFrankyUi
 {
     public partial class FrmBarco : Form
     {
-
+        Barco barcoFormulario;
         public FrmBarco()
         {
             InitializeComponent();
+            cmbTipo.DataSource = new List<ETipoBarco>{ ETipoBarco.Pirata, ETipoBarco.Marina };
+            cmbOperacion.DataSource = new List<EOperacion> {EOperacion.Cambiar_Velas, EOperacion.Pintar, EOperacion.Recargar_Cañones, EOperacion.Reparar_Mascaron, EOperacion.Reparar_Mastil, EOperacion.Repara_Casco };
+        }
+
+
+        public Barco BarcoFormulario
+        {
+            get { return this.barcoFormulario; }
         }
 
         private void FrmVehiculo_Load(object sender, EventArgs e)
@@ -30,6 +39,30 @@ namespace TallerFrankyUi
             // retornar DialogResult OK y cerrar el formulario
             // 
 
+            try
+            {
+                string nombre = txtNombre.Text.ToString();
+                ETipoBarco tipo = (ETipoBarco) cmbTipo.SelectedItem;
+                EOperacion operacion = (EOperacion)cmbOperacion.SelectedItem;
+                
+                if (tipo == ETipoBarco.Marina)
+                {
+                    Marina barco = new Marina(nombre, operacion);
+                    this.barcoFormulario = barco;
+                }
+                else if (tipo == ETipoBarco.Pirata)
+                {
+                    Pirata barco = new Pirata(nombre, operacion);
+                    this.barcoFormulario = barco;
+                }
+                this.DialogResult = DialogResult.OK;
+            }
+            catch (Exception ex)
+            {
+                this.DialogResult = DialogResult.Cancel;
+                MessageBox.Show(ex.Message);
+            }
+            
             
         }
      

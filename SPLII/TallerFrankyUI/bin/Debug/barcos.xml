@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema"<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barco xsi:type="Pirata">
+    <Costo>0</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>saaa</Nombre>
+    <Operacion>Pintar</Operacion>
+  </Barco>
+  <Barco xsi:type="Pirata">
+    <Costo>0</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>sooo</Nombre>
+    <Operacion>Reparar_Mastil</Operacion>
+  </Barco>
+  <Barco xsi:type="Marina">
+    <Costo>0</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>sdads</Nombre>
+    <Operacion>Reparar_Mascaron</Operacion>
+  </Barco>
+</ArrayOfBarco><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barco xsi:type="Pirata">
+    <Costo>10503</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre>saaa</Nombre>
+    <Operacion>Pintar</Operacion>
+  </Barco>
+  <Barco xsi:type="Pirata">
+    <Costo>8169</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre>sooo</Nombre>
+    <Operacion>Reparar_Mastil</Operacion>
+  </Barco>
+  <Barco xsi:type="Marina">
+    <Costo>17339</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre>sdads</Nombre>
+    <Operacion>Reparar_Mascaron</Operacion>
+  </Barco>
+</ArrayOfBarco><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barco xsi:type="Pirata">
+    <Costo>0</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>aa</Nombre>
+    <Operacion>Cambiar_Velas</Operacion>
+  </Barco>
+  <Barco xsi:type="Pirata">
+    <Costo>0</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre />
+    <Operacion>Cambiar_Velas</Operacion>
+  </Barco>
+  <Barco xsi:type="Marina">
+    <Costo>0</Costo>
+    <EstadoReparado>false</EstadoReparado>
+    <Nombre>34534</Nombre>
+    <Operacion>Cambiar_Velas</Operacion>
+  </Barco>
+</ArrayOfBarco><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Barco xsi:type="Pirata">
+    <Costo>9247</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre>aa</Nombre>
+    <Operacion>Cambiar_Velas</Operacion>
+  </Barco>
+  <Barco xsi:type="Pirata">
+    <Costo>9737</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre />
+    <Operacion>Cambiar_Velas</Operacion>
+  </Barco>
+  <Barco xsi:type="Marina">
+    <Costo>7651</Costo>
+    <EstadoReparado>true</EstadoReparado>
+    <Nombre>34534</Nombre>
+    <Operacion>Cambiar_Velas</Operacion>
+  </Barco>
+</ArrayOfBarco><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" /><?xml version="1.0" encoding="utf-8"?>
+<ArrayOfBarco xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" />

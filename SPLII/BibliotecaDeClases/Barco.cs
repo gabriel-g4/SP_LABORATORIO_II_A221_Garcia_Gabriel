@@ -3,9 +3,14 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Xml.Serialization;
 
 namespace BibliotecaDeClases
 {
+    [Serializable]
+    [XmlInclude(typeof(Pirata))]
+    [XmlInclude(typeof(Marina))]
+
     public abstract class Barco
     {
         protected float costo;
@@ -18,19 +23,16 @@ namespace BibliotecaDeClases
         public bool EstadoReparado { get => estadoReparado; set => estadoReparado = value; }
         public string Nombre { get => nombre; set => nombre = value; }
         public EOperacion Operacion { get => operacion; set => operacion = value; }
-        protected abstract int Tripulacion { get; set; }
+        public abstract int Tripulacion { get; set; }
 
         public Barco()
         {
 
         }
-        public Barco(string nombre, float costo, bool estadoReparado, EOperacion operacion, int tripulacion)
+        public Barco(string nombre, EOperacion operacion)
         {
             this.nombre = nombre;
-            this.costo = costo;
-            this.estadoReparado = estadoReparado;
             this.operacion = operacion;
-            this.tripulacion = tripulacion;
         }
 
 
