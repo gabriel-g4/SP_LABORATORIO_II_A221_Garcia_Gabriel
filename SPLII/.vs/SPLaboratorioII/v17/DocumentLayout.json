@@ -1,0 +1,238 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\bibliotecadeclases\\pirata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\pirata.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\bibliotecadeclases\\marina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\marina.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\bibliotecadeclases\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\barco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\bibliotecadeclases\\generarrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\generarrandom.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\bibliotecadeclases\\etipobarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\etipobarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\bibliotecadeclases\\eoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\eoperacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\bibliotecadeclases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A5AA813-AB9C-4E11-8652-C0A25F6AD870}|BibliotecaDeClases\\BibliotecaDeClases.csproj|solutionrelative:bibliotecadeclases\\taller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmprincipal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\tallerfrankyui\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\tallerfrankyui\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\tallerfrankyui\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmreparacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|c:\\users\\gabriel\\desktop\\2 cuatri\\prg labo ii\\practica segundo parcial\\segundo parcial\\splii\\tallerfrankyui\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8A7D2B59-C597-4B84-B1AD-19698B1956DB}|TallerFrankyUI\\TallerFrankyUI.csproj|solutionrelative:tallerfrankyui\\frmbarco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ETipoBarco.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\ETipoBarco.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\ETipoBarco.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\ETipoBarco.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\ETipoBarco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:24:05.016Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "GenerarRandom.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\GenerarRandom.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\GenerarRandom.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\GenerarRandom.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\GenerarRandom.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:17:28.395Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Barco.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Barco.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Barco.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Barco.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Barco.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:36:20.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Marina.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Marina.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Marina.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Marina.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Marina.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwCUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:09:39.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Pirata.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Pirata.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Pirata.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Pirata.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Pirata.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAwwCcAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:55:41.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EOperacion.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\EOperacion.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\EOperacion.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\EOperacion.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\EOperacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:21:32.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Taller.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Taller.cs",
+              "RelativeDocumentMoniker": "BibliotecaDeClases\\Taller.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\BibliotecaDeClases\\Taller.cs",
+              "RelativeToolTip": "BibliotecaDeClases\\Taller.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T18:12:51.424Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FrmReparacion.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmReparacion.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmReparacion.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmReparacion.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TallerFrankyUI\\FrmReparacion.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:54:46.113Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FrmPrincipal.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmPrincipal.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmPrincipal.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmPrincipal.cs",
+              "RelativeToolTip": "TallerFrankyUI\\FrmPrincipal.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:35:39.038Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmBarco.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmBarco.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmBarco.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmBarco.cs [Dise\u00F1o]",
+              "RelativeToolTip": "TallerFrankyUI\\FrmBarco.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:54:48.997Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmReparacion.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmReparacion.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmReparacion.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmReparacion.cs",
+              "RelativeToolTip": "TallerFrankyUI\\FrmReparacion.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:35:30.674Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmBarco.cs",
+              "DocumentMoniker": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmBarco.cs",
+              "RelativeDocumentMoniker": "TallerFrankyUI\\FrmBarco.cs",
+              "ToolTip": "C:\\Users\\Gabriel\\Desktop\\2 cuatri\\prg labo II\\PRACTICA SEGUNDO PARCIAL\\SEGUNDO PARCIAL\\SPLII\\TallerFrankyUI\\FrmBarco.cs",
+              "RelativeToolTip": "TallerFrankyUI\\FrmBarco.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-05T17:35:23.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{d212f56b-c48a-434c-a121-1c5d80b59b9f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
